@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Akinlawon Anuoluwapo
 - 👀 I’m interested in Programming and Cyber Security 
-- 🌱 I’m currently learning Computer Technology in School and Cybersecurity personally
-- 💞️ I’m looking to collaborate on Full Stack and Cybersecurity Projects 
+- 🌱 I’m currently learning Computer Technology in School
+- 💞️ I’m looking to collaborate on Frontend Projects
 - 📫 How to reach me +234 8157852371
 
 <!---
